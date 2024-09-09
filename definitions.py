@@ -48,3 +48,16 @@ def dastur():
 
 # git commit - kuzatuvdagi/kontroldagi fayl(lar)ni
 # qayd etish / qayd ostiga olish
+
+# git remote add origin https://github.com/Ali0602/4oy_7darsuyishi_8topshiriqq.git
+# origin nomli cloud repo qo'shdik
+# uning lokatsiyasi https://github.com/Ali0602/4oy_7darsuyishi_8topshiriqq.git ekan
+         # git branch
+
+# git status
+
+# git remote -v
+
+# git commit -m "qayd xabari/izohi"
+
+# git add .
